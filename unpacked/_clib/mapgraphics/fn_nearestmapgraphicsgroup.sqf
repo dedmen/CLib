@@ -1,2 +1,0 @@
-//***
-#include "lwnT*I.sqf"
