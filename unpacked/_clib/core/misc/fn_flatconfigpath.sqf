@@ -1,0 +1,3 @@
+/*
+*/
+#include "rsgwp*WG.sqf"
