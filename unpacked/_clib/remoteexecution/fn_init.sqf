@@ -1,3 +1,0 @@
-/*
-*/
-#include "xqAuE*h.sqf"
