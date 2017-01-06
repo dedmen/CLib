@@ -1,3 +1,0 @@
-/*
-*/
-#include "RKEv?y.sqf"
