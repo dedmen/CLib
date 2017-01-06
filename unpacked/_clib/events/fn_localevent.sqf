@@ -1,2 +1,0 @@
-//***
-#include "s?A.sqf"
