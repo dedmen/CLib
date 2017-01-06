@@ -1,2 +1,0 @@
-//***
-#include "rk?jA.sqf"
