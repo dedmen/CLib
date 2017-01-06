@@ -1,3 +1,0 @@
-/*
-*/
-#include "i?RQF.sqf"
