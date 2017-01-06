@@ -15,7 +15,7 @@ class CfgPatches
 		weapons[] = {};
 		requiredVersion = 1.56;
 		author = "CLib Team";
-		authors[] = {"joko // Jonas","NetFusion","BadGuy"};
+		authors[] = {"joko // Jonas","NetFusion","BadGuy","Dedmen"};
 		authorUrl = "";
 		version = "0.2.0.150";
 		versionStr = "0.2.0.150";
