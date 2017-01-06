@@ -1,3 +1,0 @@
-/*
-*/
-#include "qpb*g.sqf"

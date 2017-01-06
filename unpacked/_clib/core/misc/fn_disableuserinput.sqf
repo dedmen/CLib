@@ -1,3 +1,0 @@
-/*
-*/
-#include "k*Ta.sqf"

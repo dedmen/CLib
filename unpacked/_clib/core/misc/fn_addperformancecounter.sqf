@@ -1,3 +1,0 @@
-/*
-*/
-#include "xeB?Vh.sqf"

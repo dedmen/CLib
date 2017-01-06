@@ -1,3 +1,0 @@
-/*
-*/
-#include "V*BWR.sqf"

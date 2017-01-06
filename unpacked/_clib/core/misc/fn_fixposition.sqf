@@ -1,2 +1,0 @@
-//***
-#include "SO*RVN.sqf"
